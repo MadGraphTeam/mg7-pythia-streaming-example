@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+PROC_*/
+*.hepmc3
+*.hepmc3.gz
+*.hepmc
+*.log

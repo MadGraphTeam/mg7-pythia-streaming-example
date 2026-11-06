@@ -1,0 +1,2 @@
+pythia8mc>=8.318
+pyhepmc

@@ -1,0 +1,6 @@
+generate p p > j j j
+output mg7 PROC_ppjjj
+launch PROC_ppjjj
+set save_gridpack true
+set run_mode fix_max_weight
+done
