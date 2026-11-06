@@ -29,8 +29,6 @@ git clone git@github.com:MadGraphTeam/MadGraph7.git
 git -C MadGraph7 checkout main
 ```
 
-(To keep a separate checkout next to an existing clone: `git worktree add ../MadGraph7-main origin/main`.)
-
 **3. Gridpack**
 
 Event streaming needs `run_mode = fix_max_weight`. `make_gridpack.mg5` contains
